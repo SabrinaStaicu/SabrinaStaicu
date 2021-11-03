@@ -2,13 +2,13 @@
 
 I'm a junior Full Stack Developer, I've started *m*y coding journey at Codecool in September 2020 and after a ye*a*r of hard work I'm ready to face the world!
 
-:briefcase: ##### I have experience in
+##### :briefcase:  I have experience in
 - creating web applications frontend, backend and design
 - working with the AGILE methodology
 - easily switching from one technolo*g*y to another and learn*i*ng new technologies fast
 - working with a team and *c*ommunicating
 
-:books: ##### Technologies I've worked with
+##### :books: Technologies I've worked with
 - Visual Studio Code
 - IntelliJ
 - Git
@@ -29,15 +29,15 @@ I'm a junior Full Stack Developer, I've started *m*y coding journey at Codecool 
 - ProgeCAD
 
 
-	:monocle_face: ##### I am currently learning
+##### :monocle_face: I am currently learning
 - ui/ux Design with Figma from wireframing to mockup
 
-:chart_with_upwards_trend: ##### I want to learn
+##### :chart_with_upwards_trend: I want to learn
 - C/C++ *Arduino here I come!（=´∇｀=）*
 - C# *(Not leaving that Unity out!)*
 - There's always more to learn and we should never stop improving ourselves (=｀ω´=)
 
-:sleeping: ##### In my free time I like to
+##### :sleeping: In my free time I like to
 - read :open_book: (=´∇｀=)
 - learn about robotics and mechatronics! :･ﾟ✧(=✪ ᆺ ✪=):･ﾟ✧
 - cook (=´∇｀=)
