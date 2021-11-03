@@ -1,6 +1,7 @@
 ### Hello! I'm Sabrina 	(=｀ω´=)
 
 I'm a junior Full Stack Developer, I've started *m*y coding journey at Codecool in September 2020 and after a ye*a*r of hard work I'm ready to face the world!
+
 :briefcase: ##### I have experience in
 - creating web applications frontend, backend and design
 - working with the AGILE methodology
