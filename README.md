@@ -1,16 +1,43 @@
-### Hi there 👋
+### Hello! I'm Sabrina 	(=｀ω´=)
 
-<!--
-**SabrinaStaicu/SabrinaStaicu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a junior Full Stack Developer, I've started *m*y coding journey at Codecool in September 2020 and after a ye*a*r of hard work I'm ready to face the world!
+:briefcase: ##### I have experience in
+- creating web applications frontend, backend and design
+- working with the AGILE methodology
+- easily switching from one technolo*g*y to another and learn*i*ng new technologies fast
+- working with a team and *c*ommunicating
 
-Here are some ideas to get you started:
+:books: ##### Technologies I've worked with
+- Visual Studio Code
+- IntelliJ
+- Git
+- Python
+- Flask
+- HTML5
+- JS
+- CSS
+- React
+- Java
+- Thymeleaf
+- Bootstrap
+- Spring Boot
+- Postgresql
+- Maven
+- PlantUML
+- Mockito
+- ProgeCAD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+	:monocle_face: ##### I am currently learning
+- ui/ux Design with Figma from wireframing to mockup
+
+:chart_with_upwards_trend: ##### I want to learn
+- C/C++ *Arduino here I come!（=´∇｀=）*
+- C# *(Not leaving that Unity out!)*
+- There's always more to learn and we should never stop improving ourselves (=｀ω´=)
+
+:sleeping: ##### In my free time I like to
+- read :open_book: (=´∇｀=)
+- learn about robotics and mechatronics! :･ﾟ✧(=✪ ᆺ ✪=):･ﾟ✧
+- cook (=´∇｀=)
+- pet my cat, Jay /ᐠ｡ퟑ｡ᐟ\ᶠᵉᵉᵈ ᵐᵉ
