@@ -19,6 +19,7 @@ I'm a junior Full Stack Developer, I've started my coding journey at Codecool in
 - JS
 - CSS
 - React
+- NodeJS
 - Java
 - Thymeleaf
 - Bootstrap
