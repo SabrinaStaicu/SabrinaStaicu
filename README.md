@@ -25,6 +25,7 @@ I'm a junior Full Stack Developer, I've started my coding journey at Codecool in
 - Bootstrap
 - Spring Boot
 - Postgresql
+- Hibernate
 - Maven
 - PlantUML
 - Mockito
