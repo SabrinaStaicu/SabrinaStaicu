@@ -11,7 +11,7 @@ I'm a junior Full Stack Developer, I've started my coding journey at Codecool in
 ## :books: Technologies I've worked with
 
 #### Programming languages
-- Python
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/121px-Python-logo-notext.svg.png" height="auto" width="40">
 - JS
 - Java
 
