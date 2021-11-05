@@ -10,32 +10,32 @@ I'm a junior Full Stack Developer, I've started my coding journey at Codecool in
 
 ##### :books: Technologies I've worked with
 
-## Languages (both programming and not)
+###### Languages (both programming and not)
 - Python
 - JS
 - Java
 
-## IDE's
+###### IDE's
 - Visual Studio Code
 - IntelliJ
 
-## Versioning platforms
+###### Versioning platforms
 - Git
 
-## Project management tools
+###### Project management tools
 - Trello
 
-## Web Frameworks
+###### Web Frameworks
 - Flask
 
-## Frontend 
+###### Frontend 
 - HTML5
 - CSS
 - React
 - Thymeleaf
 - Bootstrap
 
-## Backend
+###### Backend
 - Spring Boot
 - Postgresql
 - Hibernate
@@ -43,10 +43,10 @@ I'm a junior Full Stack Developer, I've started my coding journey at Codecool in
 - PlantUML
 - Mockito
 
-## CAD softwares
+###### CAD softwares
 - ProgeCAD
 
-## Graphic softwares
+###### Graphic softwares
 - Photoshop
 - Clip Studio Paint
 
