@@ -25,20 +25,24 @@ I'm a junior Full Stack Developer, I've started my coding journey at Codecool in
 </p>
 
 #### Versioning platforms
-<p align="left"></p>
+<p align="left">
+<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" height="auto" width="40">
+</p>
 - Git
 
 #### Project management tools
-<p align="left"></p>
-- Trello
+<p align="left">
+<img src="https://luna1.co/e63a71.png" alt="Trello" height="auto" width="40">
+</p>
 
 #### Frontend 
-<p align="left"></p>
-- HTML5
-- CSS
-- React
-- Thymeleaf
-- Bootstrap
+<p align="left">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/HTML5_logo_resized.svg/1200px-HTML5_logo_resized.svg.png" alt="HTML" height="auto" width="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="CSS" height="auto" width="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="React" height="auto" width="40">
+<img src="https://www.thymeleaf.org/doc/images/thymeleaf.png" alt="Thymeleaf" height="auto" width="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" alt="Bootstrap" height="auto" width="40">
+</p>
 
 #### Backend
 <p align="left"></p>
