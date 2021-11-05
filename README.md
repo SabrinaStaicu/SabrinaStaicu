@@ -13,21 +13,27 @@ I'm a junior Full Stack Developer, I've started my coding journey at Codecool in
 #### Programming languages
 <p align="left">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/121px-Python-logo-notext.svg.png" alt="Python" height="auto" width="40">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png" alt="JS" height="auto" width="40" border-radius="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png" alt="JS" height="auto" width="40">
 <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" height="40" width="auto">
 </p>
 
 #### IDE's
-- Visual Studio Code
-- IntelliJ
+<p align="left">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code" height="auto" width="40">
+<img src="https://dwglogo.com/wp-content/uploads/2017/11/IntelliJ_IDEA_logo_01.png" alt="IntelliJ" height="auto" width="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/2048px-PyCharm_Icon.svg.png" alt="PyCharm" height="auto" width="40">
+</p>
 
 #### Versioning platforms
+<p align="left"></p>
 - Git
 
 #### Project management tools
+<p align="left"></p>
 - Trello
 
 #### Frontend 
+<p align="left"></p>
 - HTML5
 - CSS
 - React
@@ -35,6 +41,7 @@ I'm a junior Full Stack Developer, I've started my coding journey at Codecool in
 - Bootstrap
 
 #### Backend
+<p align="left"></p>
 - Spring Boot
 - Postgresql
 - Hibernate
@@ -44,9 +51,11 @@ I'm a junior Full Stack Developer, I've started my coding journey at Codecool in
 - Flask
 
 #### CAD softwares
+<p align="left"></p>
 - ProgeCAD
 
 #### Graphic softwares
+<p align="left"></p>
 - Photoshop
 - Clip Studio Paint
 
