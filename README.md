@@ -1,41 +1,41 @@
-### Hello! I'm Sabrina 	(=｀ω´=)
+# Hello! I'm Sabrina 	(=｀ω´=)
 
 I'm a junior Full Stack Developer, I've started my coding journey at Codecool in September 2020 and after a year of hard work I'm ready to face the world!
 
-##### :briefcase:  I have experience in
+### :briefcase:  I have experience in
 - creating web applications frontend, backend and design
 - working with the AGILE methodology
 - easily switching from one technology to another and learning new technologies fast
 - working with a team and communicating
 
-##### :books: Technologies I've worked with
+### :books: Technologies I've worked with
 
-###### Languages (both programming and not)
+#### Languages (both programming and not)
 - Python
 - JS
 - Java
 
-###### IDE's
+#### IDE's
 - Visual Studio Code
 - IntelliJ
 
-###### Versioning platforms
+#### Versioning platforms
 - Git
 
-###### Project management tools
+#### Project management tools
 - Trello
 
-###### Web Frameworks
+#### Web Frameworks
 - Flask
 
-###### Frontend 
+#### Frontend 
 - HTML5
 - CSS
 - React
 - Thymeleaf
 - Bootstrap
 
-###### Backend
+#### Backend
 - Spring Boot
 - Postgresql
 - Hibernate
@@ -43,22 +43,22 @@ I'm a junior Full Stack Developer, I've started my coding journey at Codecool in
 - PlantUML
 - Mockito
 
-###### CAD softwares
+#### CAD softwares
 - ProgeCAD
 
-###### Graphic softwares
+#### Graphic softwares
 - Photoshop
 - Clip Studio Paint
 
-##### :monocle_face: I am currently learning
+### :monocle_face: I am currently learning
 - ui/ux Design with Figma from wireframing to mockup
 
-##### :chart_with_upwards_trend: I want to learn
+### :chart_with_upwards_trend: I want to learn
 - C/C++ *Arduino here I come!（=´∇｀=）*
 - C# *(Not leaving that Unity out!)*
 - There's always more to learn and we should never stop improving ourselves (=｀ω´=)
 
-##### :sleeping: In my free time I like to
+### :sleeping: In my free time I like to
 - read :open_book: (=´∇｀=)
 - learn about robotics and mechatronics! :･ﾟ✧(=✪ ᆺ ✪=):･ﾟ✧
 - cook (=´∇｀=)
