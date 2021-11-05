@@ -31,7 +31,7 @@ I'm a junior Full Stack Developer, I've started my coding journey at Codecool in
 
 #### Project management tools
 <p align="left">
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Trello_logo.svg/1200px-Trello_logo.svg.png" alt="Trello" height="auto" width="40">
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Trello_logo.svg/1200px-Trello_logo.svg.png" alt="Trello" height="40" width="auto">
 </p>
 
 #### Frontend 
