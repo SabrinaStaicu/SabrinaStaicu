@@ -28,11 +28,10 @@ I'm a junior Full Stack Developer, I've started my coding journey at Codecool in
 <p align="left">
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" height="auto" width="40">
 </p>
-- Git
 
 #### Project management tools
 <p align="left">
-<img src="https://luna1.co/e63a71.png" alt="Trello" height="auto" width="40">
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Trello_logo.svg/1200px-Trello_logo.svg.png" alt="Trello" height="auto" width="40">
 </p>
 
 #### Frontend 
@@ -45,23 +44,25 @@ I'm a junior Full Stack Developer, I've started my coding journey at Codecool in
 </p>
 
 #### Backend
-<p align="left"></p>
-- Spring Boot
-- Postgresql
-- Hibernate
-- Maven
-- PlantUML
-- Mockito
-- Flask
+<p align="left">
+<img src="https://user-images.githubusercontent.com/33158051/103466606-760a4000-4d14-11eb-9941-2f3d00371471.png" alt="Spring Boot" height="auto" width="40">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="Postgresql" height="auto" width="40">
+  <img src="https://www.javatpoint.com/images/hibernate/hibernate2.png" alt="Hibernate" height="auto" width="40">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Apache_Maven_logo.svg/1280px-Apache_Maven_logo.svg.png" alt="Maven" height="40" width="auto">
+  <img src="https://i.imgur.com/8AUrgGZ.png" alt="PlantUML" height="40" width="auto">
+  <img src="https://raw.githubusercontent.com/mockito/mockito/main/src/javadoc/org/mockito/logo.png" alt="Mockito" height="40" width="auto">
+</p>
 
 #### CAD softwares
-<p align="left"></p>
-- ProgeCAD
+<p align="left">
+  <img src="https://lh5.googleusercontent.com/-G7aKYNEkgWA/VPMIWhdCcMI/AAAAAAAARRw/gVUlsv5I6-E/s128-no/icon.png" alt="ProgeCAD" height="40" width="auto">
+</p>
 
 #### Graphic softwares
-<p align="left"></p>
-- Photoshop
-- Clip Studio Paint
+<p align="left">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" alt="Photoshop" height="40" width="auto">
+<img src="https://seaboardace.com/images/uploads/game1/1262985592/clip-studio-paint.jpg" alt="Clip Studio Paint" height="40" width="auto">
+</p>
 
 ## :monocle_face: I am currently learning
 - ui/ux Design with Figma from wireframing to mockup
