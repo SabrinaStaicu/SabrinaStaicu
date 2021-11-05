@@ -8,7 +8,7 @@ I'm a junior Full Stack Developer, I've started my coding journey at Codecool in
 - easily switching from one technology to another and learning new technologies fast
 - working with a team and communicating
 
-## :books: Technologies I've worked with<sup STYLE="font-size:xx-small">with links</sup>
+## :books: Technologies I've worked with<sup font-size="xx-small">with links</sup>
 
 #### Programming languages
 <p align="left">
