@@ -11,7 +11,7 @@ I'm a junior Full Stack Developer, I've started my coding journey at Codecool in
 ## :books: Technologies I've worked with
 
 #### Programming languages
-- Python
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="border-radius: 25px;"/>
 - JS
 - Java
 
