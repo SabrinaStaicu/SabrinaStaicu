@@ -45,7 +45,7 @@ I'm a junior Full Stack Developer, I've started my coding journey at Codecool in
 
 #### Backend
 <p align="left">
-<img src="https://user-images.githubusercontent.com/33158051/103466606-760a4000-4d14-11eb-9941-2f3d00371471.png" alt="Spring Boot" height="auto" width="40">
+<img src="https://user-images.githubusercontent.com/33158051/103466606-760a4000-4d14-11eb-9941-2f3d00371471.png" alt="Spring Boot" height="40" width="auto">
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="Postgresql" height="auto" width="40">
   <img src="https://www.javatpoint.com/images/hibernate/hibernate2.png" alt="Hibernate" height="auto" width="40">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Apache_Maven_logo.svg/1280px-Apache_Maven_logo.svg.png" alt="Maven" height="40" width="auto">
