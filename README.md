@@ -25,9 +25,6 @@ I'm a junior Full Stack Developer, I've started my coding journey at Codecool in
 #### Project management tools
 - Trello
 
-#### Web Frameworks
-- Flask
-
 #### Frontend 
 - HTML5
 - CSS
@@ -42,6 +39,7 @@ I'm a junior Full Stack Developer, I've started my coding journey at Codecool in
 - Maven
 - PlantUML
 - Mockito
+- Flask
 
 #### CAD softwares
 - ProgeCAD
