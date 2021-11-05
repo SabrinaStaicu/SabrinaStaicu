@@ -10,7 +10,7 @@ I'm a junior Full Stack Developer, I've started my coding journey at Codecool in
 
 ## :books: Technologies I've worked with
 
-#### Languages (both programming and not)
+#### Languages
 - Python
 - JS
 - Java
