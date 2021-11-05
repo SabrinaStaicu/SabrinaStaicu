@@ -9,27 +9,46 @@ I'm a junior Full Stack Developer, I've started my coding journey at Codecool in
 - working with a team and communicating
 
 ##### :books: Technologies I've worked with
+
+## Languages (both programming and not)
+- Python
+- JS
+- Java
+
+## IDE's
 - Visual Studio Code
 - IntelliJ
+
+## Versioning platforms
 - Git
+
+## Project management tools
 - Trello
-- Python
+
+## Web Frameworks
 - Flask
+
+## Frontend 
 - HTML5
-- JS
 - CSS
 - React
-- Java
 - Thymeleaf
 - Bootstrap
+
+## Backend
 - Spring Boot
 - Postgresql
 - Hibernate
 - Maven
 - PlantUML
 - Mockito
+
+## CAD softwares
 - ProgeCAD
 
+## Graphic softwares
+- Photoshop
+- Clip Studio Paint
 
 ##### :monocle_face: I am currently learning
 - ui/ux Design with Figma from wireframing to mockup
