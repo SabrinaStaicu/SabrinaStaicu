@@ -13,8 +13,8 @@ I'm a junior Full Stack Developer, I've started my coding journey at Codecool in
 #### Programming languages
 <p align="left">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/121px-Python-logo-notext.svg.png" alt="Python" height="auto" width="40">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png" alt="JS" height="auto" width="40" border-radius="25">
-<img src="https://dev.java/assets/images/java-logo-vert-blk.png" alt="Java" height="auto" width="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png" alt="JS" height="auto" width="40" border-radius="25px">
+<img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" height="auto" width="40">
 </p>
 
 #### IDE's
