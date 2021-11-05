@@ -20,7 +20,7 @@ I'm a junior Full Stack Developer, I've started my coding journey at Codecool in
 #### IDE's
 <p align="left">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code" height="auto" width="40">
-<img src="https://dwglogo.com/wp-content/uploads/2017/11/IntelliJ_IDEA_logo_01.png" alt="IntelliJ" height="auto" width="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ" height="auto" width="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/2048px-PyCharm_Icon.svg.png" alt="PyCharm" height="auto" width="40">
 </p>
 
