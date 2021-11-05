@@ -11,9 +11,9 @@ I'm a junior Full Stack Developer, I've started my coding journey at Codecool in
 ## :books: Technologies I've worked with
 
 #### Programming languages
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/121px-Python-logo-notext.svg.png" height="auto" width="40">
-- JS
-- Java
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/121px-Python-logo-notext.svg.png" alt="Python" height="auto" width="40">
+<img src="https://fr.wikipedia.org/wiki/JavaScript#/media/Fichier:Unofficial_JavaScript_logo_2.svg" alt="JS" height="auto" width="40" border-radius="25>
+<img src="https://dev.java/assets/images/java-logo-vert-blk.png" alt="Java" height="auto" width="40">
 
 #### IDE's
 - Visual Studio Code
